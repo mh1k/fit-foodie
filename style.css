@@ -1,0 +1,175 @@
+/* first section */
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.s1-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.half-width{
+    width:50%;
+    padding-top: 50px;
+    
+}
+
+.half-width p{
+    margin-bottom: 60px;
+}
+h1{
+    font-size: 60px;
+    padding-top: 100px;
+    color: gray;
+    
+}
+.align-left{
+    padding-left: 60px;
+}
+.first-img{
+    width: 95%;
+}
+    /* text gradient source google */
+.orange{
+    background: -webkit-linear-gradient(orange, tomato);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+ /* text gradient source google */
+
+
+.link-button{
+    background-image: linear-gradient(tomato, orange);
+    padding: 10px 30px;
+    color: white;
+    text-decoration: none;
+    border-radius: 25px; 
+}
+/* second section */
+/* second section */
+/* second section */
+
+.s2-container{
+    display: flex;
+    background-image: url(images/bg\ img.png);
+    margin-bottom: 100px;
+    background-repeat: no-repeat;
+    width: 100%;
+    
+}
+h2{
+    font-size: 40px;
+    color: gray;
+}
+
+.mid-img{
+    width: 350px;
+    padding-left: 180px;
+    display: block;
+    
+}
+
+.midtext{
+
+    margin-left: 80px;
+    margin-top: 20px;
+    width: 500px;
+}
+
+
+
+
+/* third section */
+/* third section */
+/* third section */
+
+.s3-container{
+    margin-bottom: 100px;
+
+}
+
+.recipi-menu{
+display: flex;
+}
+
+.recipi{
+    text-align: center;
+    
+}
+#para-margin{
+    margin-bottom: 100px;
+}
+
+.triple-width{
+    
+    width: 25%;
+    box-shadow: 7px 7px 45px gray;
+    margin-left: 5%;
+    padding:15px 15px;
+    border-radius: 25px;
+
+}
+
+.triple-width img{
+    width: 100%;
+    border-radius: 25px;
+    
+}
+
+h3{ 
+    font-size: 22px;
+}
+.triple-width a{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange, tomato);
+    padding:3px 8px;
+    border-radius: 20px;
+    
+}
+
+.para-b2{
+    margin-bottom: 65px;
+    
+}
+.para-b3{
+    margin-bottom: 40px;
+    
+}
+/* fourth section */
+/* fourth section */
+/* fourth section */
+
+.follower h3{
+    margin-bottom: -10px;
+    font-size: 30px;
+}
+.social{
+    display: flex;
+    width: 92%;
+    box-shadow: 7px 7px 45px gray;
+    margin-left: 5%;
+    border-radius: 25px;
+
+}
+
+.follower{
+    width: 20%;
+    margin-left: 150px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+/* footer */
+/* footer */
+/* footer */
+footer{
+    background-color: black;
+    text-align: center;
+    padding-bottom: 90px;
+    padding-top: 10px;
+}
+
+footer p{
+    color: white;
+}
