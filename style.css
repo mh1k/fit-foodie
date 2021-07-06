@@ -6,7 +6,7 @@ body{
 
 .s1-container{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 80px;
 }
 
 .half-width{
@@ -53,7 +53,7 @@ h1{
 .s2-container{
     display: flex;
     background-image: url(images/bg\ img.png);
-    margin-bottom: 100px;
+    margin-bottom: 80px;
     background-repeat: no-repeat;
     width: 100%;
     
@@ -73,7 +73,7 @@ h2{
 .midtext{
 
     margin-left: 80px;
-    margin-top: 20px;
+    margin-top: 90px;
     width: 500px;
 }
 
@@ -85,7 +85,7 @@ h2{
 /* third section */
 
 .s3-container{
-    margin-bottom: 100px;
+    margin-bottom: 80px;
 
 }
 
@@ -120,23 +120,32 @@ display: flex;
 h3{ 
     font-size: 22px;
 }
-.triple-width a{
-    text-decoration: none;
-    color: white;
-    background-image: linear-gradient(orange, tomato);
-    padding:3px 8px;
-    border-radius: 20px;
+
+
     
+/* fourth section */
+/* fourth section */
+/* fourth section */
+
+.our-chef{
+    display: flex;
+}
+.chef{
+    
+    width: 25%;
+    box-shadow: 7px 7px 45px gray;
+    margin-left: 5%;
+    padding:15px 15px;
+    border-radius: 25px;
+
+}
+.our-chef img{
+    width: 100%;
+    border-radius: 50%;
 }
 
-.para-b2{
-    margin-bottom: 65px;
-    
-}
-.para-b3{
-    margin-bottom: 40px;
-    
-}
+
+
 /* fourth section */
 /* fourth section */
 /* fourth section */
